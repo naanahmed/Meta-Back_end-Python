@@ -1,0 +1,13 @@
+Python does not really have a method of declaring multiline comments so a # symbol can be used at the beginning of every line of the comment
+Data Types :
+    Numeric : integer, float, complex number
+    Sequence : string, list, tuples(its values cant be changed)
+    Dictionary 
+    Boolean
+    Set : unordered, unindexed, non-repeated set of values
+Type Casting :
+    implicit : automatic, to prevent data loss, only if compatible otherwise Type error
+    explicit : str(), int(), float(), ord(), hex(), oct()
+
+Everything that a user types in, is converted, by Python, to the string data type.
+Python's implicit type conversion works when I use the + operator on strings and integers, it does not work on strings and floats.   
