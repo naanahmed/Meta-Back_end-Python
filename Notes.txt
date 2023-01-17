@@ -11,3 +11,9 @@ Type Casting :
 
 Everything that a user types in, is converted, by Python, to the string data type.
 Python's implicit type conversion works when I use the + operator on strings and integers, it does not work on strings and floats.   
+Three types of Operations : Mathematical, Logical,Comparison
+The If, else and elif (else if) statements are conditional flow controls.
+The while and for loop are also flow controls but they are not conditional.
+
+
+
