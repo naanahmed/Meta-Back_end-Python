@@ -16,4 +16,3 @@ The If, else and elif (else if) statements are conditional flow controls.
 The while and for loop are also flow controls but they are not conditional.
 
 
-

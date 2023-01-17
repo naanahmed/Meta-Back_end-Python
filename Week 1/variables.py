@@ -15,4 +15,4 @@ print(c)
 
 del a
 
-print(a) #a is defined
+print(a) #a is not defined
